@@ -9,7 +9,7 @@ import mx.unam.ciencias.icc.Distribucion;
 
 /**
  * Clase para el controlador del contenido del diálogo para editar y crear
- * estudiantes.
+ * distribuciones.
  */
 public class ControladorFormaDistribucion extends ControladorForma {
 
@@ -28,7 +28,7 @@ public class ControladorFormaDistribucion extends ControladorForma {
     private String nombre;
     /* El valor del número de version. */
     private double version;
-    /* El valor del promedio. */
+    /* El valor de la calificacion. */
     private int calificacion;
     /* El valor del derivaDe. */
     private String derivaDe;

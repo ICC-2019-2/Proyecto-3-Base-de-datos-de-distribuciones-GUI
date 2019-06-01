@@ -8,7 +8,7 @@ import javafx.scene.control.Tooltip;
 import mx.unam.ciencias.icc.CampoDistribucion;
 
 /**
- * Clase para el controlador del contenido del diálogo para buscar estudiantes.
+ * Clase para el controlador del contenido del diálogo para buscar distribuciones.
  */
 public class ControladorFormaBusquedaDistribucion extends ControladorForma {
 

@@ -1,7 +1,7 @@
 package mx.unam.ciencias.icc;
 
 /**
- * Enumeración para los campos de un {@link Estudiante}.
+ * Enumeración para los campos de una {@link Distribucion}.
  */
 public enum CampoDistribucion {
 

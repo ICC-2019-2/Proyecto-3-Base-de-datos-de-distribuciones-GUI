@@ -14,7 +14,7 @@ Esta es un seguimiento del [Proyecto 1](https://gitlab.com/alvaro-ramirez/proyec
 Pueden clonar el proyecto con el siguiente comando:
 
 ```shell
-$ git clone https://canek@aztlan.fciencias.unam.mx/gitlab/2019-2-icc/practica9.git
+$ git clone https://gitlab.com/icc-2019-2/proyecto3.git
 ```
 
 ### Documentación

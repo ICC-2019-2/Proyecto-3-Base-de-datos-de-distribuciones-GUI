@@ -2,7 +2,7 @@ Debian	9.00	10	Ninguna	Apt
 Red Hat	9.00	08	Ninguna	Yum
 Arch Linux	19.00	10	Ninguna	Pacman
 Gentoo	12.00	10	Ninguna	Paludis
-Manjaro	19.00	10	Arch Linux	Pacman
+Manjaro	19.10	10	Arch Linux	Pacman
 Antergos	19.00	10	Arch Linux	Pacman
-Ubuntu	18.05	10	Debian	Apt
 Fedora	22.00	10	Red Hat	Yum
+Ubuntu	19.04	10	Debian	Apt
